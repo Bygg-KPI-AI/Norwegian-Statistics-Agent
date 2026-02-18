@@ -23,3 +23,12 @@ This document explains how the Norway Statistics Agent operates within Microsoft
 
 ## Example output
 - See [Report](Report/) for a sample analysis exported from a chat, including diagrams, analysis, and forecast.
+
+## Visual Examples
+Here are a few sample visuals to set expectations about the types of outputs you might work with after importing data:
+
+![CCI Building Index 2024–2025](Images/cci_08651_byggindeks_2024_2025_labels_1_5x.png)
+
+![Material Indices (2024 onwards)](Images/08657_material_indices_2024_onwards_labels_1_5x.png)
+
+![Salmon Export Chart](Images/salmon_export_chart_labeled.png)
