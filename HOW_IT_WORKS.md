@@ -1,9 +1,9 @@
 # How It Works
 
-This document explains how the Norway Statistics Agent operates within Microsoft Teams and Microsoft 365 Copilot Chat to help you locate and import tables from Statistics Norway (SSB).
+This document explains how the Norwegian Statistics Agent operates within Microsoft Teams and Microsoft 365 Copilot Chat to help you locate and import tables from Statistics Norway (SSB).
 
 ## Interaction flow
-- Mention the agent in a Copilot chat (e.g., `@Norway Statistics Agent`).
+- Mention the agent in a Copilot chat (e.g., `@Norwegian Statistics Agent`).
 - Ask to search tables by topic/keywords. The agent queries SSB PX-Web endpoints and returns matching table IDs with short descriptions.
 - Request parameters for a specific table ID to discover available fields and values.
 - Ask the agent to import data from that table, providing filters for parameters.

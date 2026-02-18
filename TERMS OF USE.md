@@ -1,6 +1,6 @@
 # Terms of Use
 
-These terms apply to your use of the Norway Statistics Agent and this support repository.
+These terms apply to your use of the Norwegian Statistics Agent and this support repository.
 
 ## Free, AS-IS, no warranty
 - The agent is provided free of charge for testing and evaluation.

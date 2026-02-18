@@ -1,6 +1,6 @@
-# Norway Statistics Agent — Support & Docs
+# Norwegian Statistics Agent — Support & Docs
 
-This repository provides user-facing information, support, and policies for the "Norway Statistics Agent" published for Microsoft Teams and Microsoft 365 Copilot Chat.
+This repository provides user-facing information, support, and policies for the "Norwegian Statistics Agent" published for Microsoft Teams and Microsoft 365 Copilot Chat.
 
 The agent helps you discover and import tabular data from Statistics Norway (SSB) via PX-Web HTTP queries, so you can analyze the results directly in Copilot.
 
@@ -19,7 +19,7 @@ The agent helps you discover and import tabular data from Statistics Norway (SSB
 - Availability, functionality, and maintenance are not guaranteed.
 
 ## Quick start
-1. Open a Microsoft 365 Copilot Chat and mention the agent (e.g., `@Norway Statistics Agent`).
+1. Open a Microsoft 365 Copilot Chat and mention the agent (e.g., `@Norwegian Statistics Agent`).
 2. Ask the agent to search tables by topic/keywords; it will reply with table IDs and descriptions.
 3. Ask for parameters of a specific table ID to see available fields and values.
 4. Request an import from that table, specifying parameter filters as needed. Unspecified parameters default to `*` (all).
