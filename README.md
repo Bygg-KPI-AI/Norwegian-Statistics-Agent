@@ -34,14 +34,16 @@ The agent helps you discover and import tabular data from Statistics Norway (SSB
 ## Example
 - See the example analysis in the [Report](Report/) folder for a sample diagram, analysis, and forecast exported from a chat session.
 
-## Sample Diagrams
-Below are sample charts and indices relevant to Norway statistics. These are illustrative and may differ from the data you import in your own chats.
+## Sample Screenshots
+Below are sample screenshots illustrating the agent workflow.
 
-![CCI Building Index 2024–2025](Images/cci_08651_byggindeks_2024_2025_labels_1_5x.png)
+![Search by topic](Images/1%20Search%20by%20topic.png)
 
-![Material Indices (2024 onwards)](Images/08657_material_indices_2024_onwards_labels_1_5x.png)
+![Table details](Images/2%20Table%20details.png)
 
-![Salmon Export Chart](Images/salmon_export_chart_labeled.png)
+![Import data](Images/3%20Import%20data.png)
+
+![Salmon Export Chart](Images/4%20salmon_export_chart_labeled.png)
 
 For more visuals, see the full [Gallery](Report/GALLERY.md).
 

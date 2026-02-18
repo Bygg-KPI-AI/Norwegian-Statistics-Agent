@@ -25,10 +25,12 @@ This document explains how the Norwegian Statistics Agent operates within Micros
 - See [Report](Report/) for a sample analysis exported from a chat, including diagrams, analysis, and forecast.
 
 ## Visual Examples
-Here are a few sample visuals to set expectations about the types of outputs you might work with after importing data:
+Here are a few sample visuals illustrating the agent workflow and outputs:
 
-![CCI Building Index 2024–2025](Images/cci_08651_byggindeks_2024_2025_labels_1_5x.png)
+![Search by topic](Images/1%20Search%20by%20topic.png)
 
-![Material Indices (2024 onwards)](Images/08657_material_indices_2024_onwards_labels_1_5x.png)
+![Table details](Images/2%20Table%20details.png)
 
-![Salmon Export Chart](Images/salmon_export_chart_labeled.png)
+![Import data](Images/3%20Import%20data.png)
+
+![Salmon Export Chart](Images/4%20salmon_export_chart_labeled.png)
