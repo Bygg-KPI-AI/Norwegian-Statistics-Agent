@@ -5,7 +5,7 @@ This repository provides user-facing information, support, and policies for the 
 The agent helps you discover and import tabular data from Statistics Norway (SSB) via PX-Web HTTP queries, so you can analyze the results directly in Copilot.
 
 > [!IMPORTANT]
-> Data from Statistics Norway ([SSB](https://www.ssb.no/)), retrieved via the open [StatBank API](https://www.ssb.no/en/api). Licensed under Creative Commons Attribution 4.0 ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). The data has been processed by this application.
+> Data from Statistics Norway ([SSB](https://www.ssb.no/)), retrieved via the open [StatBank API](https://www.ssb.no/en/api). Licensed under Creative Commons Attribution 4.0 ([CC BY 4.0]()). The data has been processed by this application.
 
 ## Overview
 
