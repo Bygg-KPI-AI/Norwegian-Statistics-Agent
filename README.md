@@ -4,6 +4,10 @@ This repository provides user-facing information, support, and policies for the 
 
 The agent helps you discover and import tabular data from Statistics Norway (SSB) via PX-Web HTTP queries, so you can analyze the results directly in Copilot.
 
+[!IMPORTANT]
+
+Data from Statistics Norway ([SSB](https://www.ssb.no/)), retrieved via the open [StatBank API](https://www.ssb.no/en/api). Licensed under Creative Commons Attribution 4.0 ([CC BY 4.0]()). The data has been processed by this application.
+
 ## Overview
 
 - Runs in Microsoft Teams and Microsoft 365 Copilot Chat (may require Copilot licenses such as pay-as-you-go or Microsoft 365 Copilot add-in).
@@ -43,21 +47,13 @@ The agent helps you discover and import tabular data from Statistics Norway (SSB
 
 Below are sample screenshots illustrating the agent workflow.
 
-![Search by topic](Images/1%20Search%20by%20topic.png)
+![Search by topic](./Images/2%20Search%20by%20topic.png)
 
-![Table details](Images/2%20Table%20details.png)
+Diagrams can be obtained using the Microsoft 365 Copilot Chat.
 
-![Import data](Images/3%20Import%20data.png)¨
+![Salmon Export Chart](./Images/8%20salmon_export_chart_labeled.png)
 
-Switch of the agent... After some interactions...
-
-![Salmon Export Chart](Images/4%20salmon_export_chart_labeled.png)
-
-For more visuals, see the full [Gallery](Report/GALLERY.md).
-
-## Support
-
-- Issues are handled best-effort via GitHub Issues in this repository. See [SUPPORT.md](SUPPORT.md).
+For more details, see [HOW_IT_WORKS.md](HOW_IT_WORKS.md) Issues in this repository. See [SUPPORT.md](SUPPORT.md).
 
 ## Privacy
 
