@@ -1,3 +1,5 @@
+![Comming soon](https://img.shields.io/badge/Comming%20soon-F2B84B?style=for-the-badge&labelColor=F7DE9E)
+
 # Norwegian Statistics Agent — Support & Docs
 
 This repository provides user-facing information, support, and policies for the "Norwegian Statistics Agent" published for Microsoft Teams and Microsoft 365 Copilot Chat.
