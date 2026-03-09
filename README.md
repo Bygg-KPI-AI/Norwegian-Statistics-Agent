@@ -60,6 +60,10 @@ For more details, see [HOW_IT_WORKS.md](HOW_IT_WORKS.md) Issues in this reposito
 
 - The agent does not collect personal data. See [PRIVACY.md](PRIVACY.md).
 
+## Permissions
+
+- See [PERMISSIONS.md](PERMISSIONS.md) for the permissions required by the app.
+
 ## Terms of Use
 
 - Free, AS-IS, with no warranty or SLA; availability is not guaranteed. See [TERMS OF USE.md](TERMS%20OF%20USE.md).
