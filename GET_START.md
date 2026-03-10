@@ -14,7 +14,7 @@ For suggestions about promts, explore the Prompt Gallery.
 - The agent returns data formatted as an HTML table in the chat.
 - Ask to draw charts with the data.
 - Ask to make analysis with the data.
-- Ask to export the data in several file formats: *.csv, *.json, *.doc, *.xlsx, *.pptx
+- Ask to export the data in several file formats: *.csv, *.json, *.txt, *.docx
 
 ## Limits and constraints
 
