@@ -7,7 +7,9 @@ This repository provides user-facing information, support, and policies for the 
 The agent helps you discover and import tabular data from Statistics Norway (SSB) via PX-Web HTTP queries, so you can analyze the results directly in Copilot.
 
 > [!IMPORTANT]
-> Data from Statistics Norway ([SSB](https://www.ssb.no/)), retrieved via the open [StatBank API](https://www.ssb.no/en/api). Licensed under Creative Commons Attribution 4.0 ([CC BY 4.0]()). The data has been processed by this application.
+> Data provided by Statistics Norway ([SSB](https://www.ssb.no/)) via the StatBank API ([StatBank API](https://www.ssb.no/en/api)). SSB data and content are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You must provide attribution to "Statistics Norway (SSB)" and include links to the license and SSB's license page ([SSB license page](https://www.ssb.no/diverse/lisens)).
+>
+> Note: Some materials (for example photographs) may have separate rights and are not covered by CC BY 4.0. Data containing personal or confidential information may not be covered by CC BY 4.0 — check the specific dataset's license and SSB notices before redistributing extracted data.
 
 ## Overview
 
@@ -46,15 +48,24 @@ The agent helps you discover and import tabular data from Statistics Norway (SSB
 
 ## Sample Screenshots
 
-Below are sample screenshots illustrating the agent workflow.
+Below are sample screenshots illustrating the use of the agent:
 
-![Search by topic](./Images/2%20Search%20by%20topic.png)
+<figure>
+  <img src="./Images/Teams%20Mobile.png" alt="Teams Mobile" style="width:50%;height:auto;" />
+  <figcaption><strong>Teams Mobile</strong> — Mobile client view in Microsoft Teams.</figcaption>
+</figure>
 
-Diagrams can be obtained using the Microsoft 365 Copilot Chat.
+<figure>
+  <img src="./Images/Teams%20Desktop.png" alt="Teams Desktop" style="width:50%;height:auto;" />
+  <figcaption><strong>Teams Desktop</strong> — Desktop client view in Microsoft Teams.</figcaption>
+</figure>
 
-![Salmon Export Chart](./Images/8%20salmon_export_chart_labeled.png)
+<figure>
+  <img src="./Images/Microsoft%20365%20Copilot.png" alt="Microsoft 365 Copilot" style="width:50%;height:auto;" />
+  <figcaption><strong>Microsoft 365 Copilot</strong> — Agent interaction inside Microsoft 365 Copilot Chat.</figcaption>
+</figure>
 
-For more details, see [HOW_IT_WORKS.md](HOW_IT_WORKS.md) Issues in this repository. See [SUPPORT.md](SUPPORT.md).
+For more details, see [GET_START.md](GET_START.md) Issues in this repository. See [SUPPORT.md](SUPPORT.md).
 
 ## Privacy
 

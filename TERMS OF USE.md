@@ -16,6 +16,8 @@ These terms apply to your use of the Norwegian Statistics Agent and this support
 - The agent does not collect personal data. Platform-level logging and retention may apply per Microsoft Teams/Microsoft 365 Copilot policies.
 - Imported data is presented in chat and is not persistently stored by the agent.
 
+- Data licensing: Data from Statistics Norway (SSB) is licensed under Creative Commons Attribution 4.0 International ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Users must provide attribution to "Statistics Norway (SSB)" and link to the license and SSB's [license page](https://www.ssb.no/diverse/lisens).
+
 ## Liability
 - To the maximum extent permitted by law, no liability is accepted for any direct, indirect, incidental, or consequential damages arising from use of the agent or documentation.
 
