@@ -13,7 +13,8 @@ The agent helps you discover and import tabular data from Statistics Norway (SSB
 
 ## Overview
 
-- Runs in Microsoft Teams and Microsoft 365 Copilot Chat (may require Copilot licenses such as pay-as-you-go or Microsoft 365 Copilot add-in).
+- Runs in Microsoft Teams and Microsoft 365 Copilot Chat.
+- Licensing and costs: This agent may require Microsoft 365 Copilot access or Azure pay-as-you-go resources; users are responsible for obtaining any required Microsoft licenses before use.
 - Language: English.
 - Capabilities:
   - Search SSB tables by topic/keywords and return matching table IDs with short descriptions.
@@ -26,15 +27,14 @@ The agent helps you discover and import tabular data from Statistics Norway (SSB
 - Some tables are too large to download completely due to data size limits and platform constraints.
 - The SSB API and Copilot may enforce rate limits or practical limits on result size.
 - Availability, functionality, and maintenance are not guaranteed.
+- Agents should aim to respond within nine seconds in Copilot; long-running imports must surface progress indicators or warnings about limits.
 
 ## Quick start
 
-1. Open a Microsoft 365 Copilot Chat and mention the agent (e.g., `@Norwegian Statistics Agent`).
+1. Open the agent in Microsoft 365 Copilot Chat or Teams.
 2. Ask the agent to search tables by topic/keywords; it will reply with table IDs and descriptions.
 3. Ask for parameters of a specific table ID to see available fields and values.
 4. Request an import from that table, specifying parameter filters as needed. Unspecified parameters default to `*` (all).
-5. The agent returns an HTML table with the requested data.
-6. Switch off the agent (click the X next to the agent) and continue analysis using core Copilot features (e.g., create dataframes, use Python for charts, analyze, export, or collaborate with other agents).
 
 ## APIs and data sources
 
@@ -65,11 +65,11 @@ Below are sample screenshots illustrating the use of the agent:
   <figcaption><strong>Microsoft 365 Copilot</strong> — Agent interaction inside Microsoft 365 Copilot Chat.</figcaption>
 </figure>
 
-For more details, see [GET_STARTED.md](GET_STARTED.md) Issues in this repository. See [SUPPORT.md](SUPPORT.md).
+For more details, see [GET_STARTED.md](GET_STARTED.md) and [SUPPORT.md](SUPPORT.md).
 
 ## Privacy
 
-- The agent does not collect personal data. See [PRIVACY.md](PRIVACY.md).
+- The agent does not intentionally collect personal data; imported datasets may contain personal or confidential information — verify dataset licensing and legal requirements before redistributing. See [PRIVACY.md](PRIVACY.md) for details.
 
 ## Permissions
 

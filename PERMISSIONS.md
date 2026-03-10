@@ -15,6 +15,6 @@ This app may request the following permissions in Microsoft Teams and Microsoft 
 
 These permissions allow the app to:
 
-- Understand your requests and return relevant results.
+- Understand user requests and return relevant results.
 - Respond in chat with data and status messages.
 - Operate correctly in the Teams and Copilot context where it is installed.
