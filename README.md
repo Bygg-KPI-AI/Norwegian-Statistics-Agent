@@ -55,10 +55,12 @@ Below are sample screenshots illustrating the use of the agent:
   <figcaption><strong>Teams Mobile</strong> — Mobile client view in Microsoft Teams.</figcaption>
 </figure>
 
+
 <figure>
   <img src="./Images/Teams%20Desktop.png" alt="Teams Desktop" style="width:50%;height:auto;" />
   <figcaption><strong>Teams Desktop</strong> — Desktop client view in Microsoft Teams.</figcaption>
 </figure>
+
 
 <figure>
   <img src="./Images/Microsoft%20365%20Copilot.png" alt="Microsoft 365 Copilot" style="width:50%;height:auto;" />
