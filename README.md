@@ -65,7 +65,7 @@ Below are sample screenshots illustrating the use of the agent:
   <figcaption><strong>Microsoft 365 Copilot</strong> — Agent interaction inside Microsoft 365 Copilot Chat.</figcaption>
 </figure>
 
-For more details, see [GET_START.md](GET_START.md) Issues in this repository. See [SUPPORT.md](SUPPORT.md).
+For more details, see [GET_STARTED.md](GET_STARTED.md) Issues in this repository. See [SUPPORT.md](SUPPORT.md).
 
 ## Privacy
 
@@ -77,4 +77,4 @@ For more details, see [GET_START.md](GET_START.md) Issues in this repository. Se
 
 ## Terms of Use
 
-- Free, AS-IS, with no warranty or SLA; availability is not guaranteed. See [TERMS OF USE.md](TERMS%20OF%20USE.md).
+- Free, AS-IS, with no warranty or SLA; availability is not guaranteed. See [TERMS OF USE.md](TERMS_OF_USE.md).

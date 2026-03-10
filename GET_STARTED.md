@@ -1,4 +1,4 @@
-# Get start
+# Get started
 
 This document explains how the Norwegian Statistics Agent operates within Microsoft Teams and Microsoft 365 Copilot Chat to help you locate and import tables from Statistics Norway (SSB).
 
@@ -31,26 +31,26 @@ For suggestions about promts, explore the Prompt Gallery.
 Below are screenshots:
 
 <figure>
-  <img src="./Images/01%20Teams%20Mobile%20H.jpg" alt="01 Teams Mobile H" style="width:50%;height:auto;" />
+  <img src="<./Images/01 Teams Mobile H.jpg>" alt="01 Teams Mobile H" style="width:50%;height:auto;" />
   <figcaption><strong>Teams Mobile - 'Import data'</strong></figcaption>
 </figure>
 
 <figure>
-  <img src="./Images/02%20Teams%20Mobile%20H.jpg" alt="02 Teams Mobile H" style="width:50%;height:auto;" />
+  <img src="<./Images/02 Teams Mobile H.jpg>" alt="02 Teams Mobile H" style="width:50%;height:auto;" />
   <figcaption><strong>Teams Mobile - 'Draw a chart'</strong></figcaption>
 </figure>
 
 <figure>
-  <img src="./Images/03%20Teams%20Desktop.png" alt="03 Teams Desktop" style="width:50%;height:auto;" />
+  <img src="<./Images/03 Teams Desktop.png>" alt="03 Teams Desktop" style="width:50%;height:auto;" />
   <figcaption><strong>Teams Desktop - 'Import data'</strong></figcaption>
 </figure>
 
 <figure>
-  <img src="./Images/04%20Teams%20Desktop.png" alt="04 Teams Desktop" style="width:50%;height:auto;" />
+  <img src="<./Images/04 Teams Desktop.png>" alt="04 Teams Desktop" style="width:50%;height:auto;" />
   <figcaption><strong>04 Teams Desktop - 'Draw a chart'</strong></figcaption>
 </figure>
 
 <figure>
-  <img src="./Images/05%20Microsoft%20365%20Copitlot.png" alt="05 Microsoft 365 Copitlot" style="width:50%;height:auto;" />
+  <img src="<./Images/05 Microsoft 365 Copitlot.png>" alt="05 Microsoft 365 Copitlot" style="width:50%;height:auto;" />
   <figcaption><strong>05 Microsoft 365 Copitlot - 'Import data'</strong></figcaption>
 </figure>
